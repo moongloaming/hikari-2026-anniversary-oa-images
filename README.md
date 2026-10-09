@@ -1,2 +1,7 @@
-# hikari-2026-anniversary-oa-images
-Original 2026 anniversary LINE OA carousel images; public image assets only.
+# HIKARINOHOUSE 週年慶第四彈 LINE 原圖素材
+
+- **目前公告輪播：** `announcement-carousel.flex.json`（7 張，依下列順序）。
+- **素材目錄：** `announcement-v2/01.png` ～ `07.png`；原始像素與使用者新圖完全相同。
+- **順序：** 1 封面、2 集運優惠、3 集運倉、4 快遞倉、5 推薦好友租車、6 週年系列活動、7 加入代購會員。
+- 根目錄原有的 `第四彈_*.png` 六張為歷史測試版本，保留以免破壞既有 LINE 訊息。
+- 本素材庫沒有執行任何 LINE 群發；正式發送時須載入上述目前輪播 JSON。

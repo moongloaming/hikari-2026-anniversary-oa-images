@@ -1,0 +1,93 @@
+{
+  "type": "flex",
+  "altText": "HIKARINOHOUSE 週年慶第四彈｜七張公告圖卡（左右滑動查看）",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/01.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/02.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/03.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/04.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/05.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/06.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/moongloaming/hikari-2026-anniversary-oa-images/main/announcement-v2/07.png",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "fit",
+          "backgroundColor": "#F4EFE6"
+        }
+      }
+    ]
+  }
+}
